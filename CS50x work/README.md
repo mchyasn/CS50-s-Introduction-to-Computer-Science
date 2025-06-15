@@ -16,10 +16,6 @@ Harvard CS50’s Introduction to Computer Science — CS50X 2023
 For Reference Only
 </pre>
 
-<a href="https://certificates.cs50.io/1dcdba4f-66dd-42fe-bf1f-1a626b32cf5c.png">
-  <img src="https://certificates.cs50.io/1dcdba4f-66dd-42fe-bf1f-1a626b32cf5c.png" alt="cs50x-certificates" />
-</a>
-
 ## Table of Contents
 ### [Week 0](/Week%200/) - [Scratch](https://cs50.harvard.edu/x/2023/weeks/0/)
 - [Scratch](/Week%200/Scratch)
